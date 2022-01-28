@@ -1,0 +1,129 @@
+.div1 {
+  width: 230px;
+  height: 430px;
+  border-radius: 20px;
+  background-color: hsl(216, 50%, 16%);
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+.div2 {
+  width: 250px;
+  height: 460px;
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+  background-color: hsl(217, 100%, 6%);
+  padding-top: 20px;
+  align-items: center;
+  text-align: center;
+}
+
+.eqimg {
+  margin: 12px auto auto auto;
+  width: 90%;
+  border-radius: 10px;
+}
+
+body {
+  background-color: hsl(217, 54%, 11%);
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+}
+h1{
+  color: white;
+  font-size: 18px;
+  font-style: 400px;
+  position: relative;
+  left: -32px;
+
+}
+.p1{
+color:  hsl(215, 51%, 70%);
+font-size: 12px;
+position: relative;
+left: -9px;
+
+}
+.p3{
+  color:  hsl(215, 51%, 70%);
+  font-size: 12px;
+  position: relative;
+  left: -57px;
+  line-height: 0.5px
+
+}
+.p2{
+
+}
+.avat-img{
+  border: 2px solid white;
+  border-radius: 50%;
+  width:10%;
+  position: relative;
+  top: -18px;
+  left:-30px;
+}
+hr{
+  border-style: none;
+  border-top-style: solid;
+
+  color: hsl(215, 32%, 27%);
+  width: 90%;
+
+}
+.eth{
+
+  color: hsl(178, 100%, 50%);
+  width: 25%;
+  position: relative;
+  right:-28px;
+  top: -27px;
+  font-size: 10px;
+
+}
+.time{
+
+color:  hsl(215, 51%, 70%);
+position:relative;
+left: 55px;
+top: -1px;
+display:inline-block;
+font-size: 10px;
+}
+.etherium_image{
+  position: relative;
+  right: 40%;
+  width: 3%
+
+}
+.time-image{
+  width: 5%;
+  position: relative;
+  left: 52px;
+}
+.eth-div{
+  position: relative;
+  left: -8px;
+  top:17px;
+}
+.time-div{
+  position: relative;
+  left: 10px;
+  top:-51px;
+}
+em{
+  font-style: normal;
+  color: white;
+}
+.p4{
+  font-size: 10px;
+  color:  hsl(215, 51%, 70%);
+  display: inline-block;
+  position: relative;
+  top: -29px;
+  left: -22px;
+}
